@@ -1,0 +1,223 @@
+# remove heading "This store has a current promotion
+# remove heading and tailing space
+# separate by tab
+	Name	Phone Number	Category
+	A & W	(416) 596-9134	Fast Food
+	A | X Armani Exchange	(416) 260-5559	Unisex Apparel
+	abercrombie	(416) 979-0800	Children's Apparel
+	Abercrombie & Fitch	(416) 591-6305	Unisex Apparel
+	aerie	(416) 977-4991	Specialty Apparel
+	Aeropostale	(416) 597-8264	Unisex Apparel
+	Akashiro by SUSHI Q	(416) 596-2424	Fast Food,  Restaurants
+	Aldo	(416) 979-2477	Footwear
+	Aldo	(416) 597-3809	Footwear
+	Aldo	(416) 599-4554	Footwear
+	Aldo Accessories	(416) 593-9146	Fashion Accessories
+	Amaya Express	(416) 971-3331	Fast Food
+	American Eagle Outfitters	(416) 204-9557	Unisex Apparel
+	Ann Taylor	(647) 748-8001	Ladies Apparel
+	Apple	(647) 258-0801	Electronics, Computers and Telephones
+	Ardene	(416) 848-3096	Fashion Accessories
+	Aritzia	(416) 204-1318	Ladies Apparel
+	Aroma Espresso Bar	(647) 341-3883	Fast Food,  Specialty Food
+	Atmosphere	(416) 260-1735	Sporting Goods & Athleticwear
+	Aveda Experience Centre	(416) 979-8892	Health and Beauty
+	B2	(416) 979-3544	Footwear
+	Baby Gap	(416) 591-0512	Children's Apparel
+	Bagel Stop, The	(416) 979-9570	Specialty Food
+	Banana Republic Men	(416) 260-6016	Men's Apparel
+	Banana Republic Women	(416) 595-6336	Ladies Apparel
+	Baroli Caffé	(416) 595-5551	Restaurants
+	Baskin-Robbins	(416) 979-6748	Specialty Food
+	Bath & Body Works	(416) 598-1561	Health and Beauty
+	Baton Rouge Restaurant	(416) 593-9667	Restaurants
+	Batteries & Gadgets	(416) 901-7455	Electronics, Computers and Telephones
+	Bay/Dundas Parkade	(416) 598-8398	Services
+This store has a current promotion	BCBGMAXAZRIA	(416) 640-2766	Ladies Apparel
+	Bell	(416) 260-8012	Electronics, Computers and Telephones
+This store has a current promotion	Bench	(416) 548-8656	Unisex Apparel
+	Bentley	(416) 593-0022	Leather & Luggage
+	Best Buy	(416) 642-8321	Electronics, Computers and Telephones
+	Big It Up	(416) 597-6773	Fashion Accessories
+	Big Smoke Burger	(416) 593-8880	Fast Food
+	Bikini Village	(416) 599-9911	Specialty Apparel
+	Birks	(416) 979-9311	Jewellery
+This store has a current promotion	Bitter Sweet	(416) 977-7563	Fashion Accessories
+	Black's	(416) 598-1596	Photography & Photo Equipment
+	Blue Marine & Co	(416) 260-2355	Unisex Apparel
+	Bluenotes	(416) 598-9428	Unisex Apparel
+	Body Shop, The	(416) 977-7364	Health and Beauty
+	Bourbon Street Grill	(416) 977-6688	Fast Food
+	Browns	(416) 979-9270	Footwear
+	Call it Spring	(416) 977-3193	Footwear
+	Call It Spring	(416) 340-2563	Footwear
+	Canadian Naturalist, The	(416) 581-0044	Cards, Stationery and Gifts
+	Canadian Tire	(416) 979-2025	Dept. Stores and Supermarkets
+	Capezio	(416) 597-6662	Footwear
+This store has a current promotion	Caryl Baker Visage	(416) 348-0201	Health and Beauty
+	Children's Place, The	(416) 581-1444	Children's Apparel
+	City Kitchen Restaurant & Bar	(416) 519-5839	Restaurants
+	Claire's Boutique	(416) 260-4644	Fashion Accessories
+	Club Monaco	(416) 977-2064	Unisex Apparel
+	Coach	(416) 977-3090	Leather & Luggage
+	Collacutt	(416) 260-6133	Leather & Luggage
+	Crabtree & Evelyn	(416) 340-1488	Health and Beauty
+This store has a current promotion	Crepe Delicious / Froshberg Gelato	(416) 800-5737	Fast Food
+	Danier	(416) 598-1159	Leather & Luggage
+	Disney Store	(416) 348-0180	Toys, Hobbies and Pets
+	Duke of Richmond	(416) 340-7887	Restaurants
+	Dynamite	(416) 506-0063	Ladies Apparel
+	EB Games	(416) 596-7871	Electronics, Computers and Telephones,  Toys, Hobbies and Pets
+	Ecco Shoes	(416) 977-3226	Footwear
+	Eddie Bauer	(416) 642-0638	Unisex Apparel
+	European Jewellery	(416) 599-5440	Jewellery
+	Express	(416) 592-1276	Unisex Apparel
+	Extreme Pita	(416) 351-7634	Fast Food
+	Fast Fresh Foods	(416) 901-2165	Fast Food
+	Fido	(416) 597-1436	Electronics, Computers and Telephones
+	Fido	(416) 598-4843	Electronics, Computers and Telephones
+	Flower Accents	(416) 351-1111	Cards, Stationery and Gifts
+	Foot Locker	(416) 598-1860	Sporting Goods & Athleticwear
+	Foreign Exchange Centre	(416) 598-0770	Services
+	Foreign Exchange Centre	(416) 971-5858	Services
+This store has a current promotion	Forever 21, Forever XX1	(416) 260-1337	Unisex Apparel
+	Fossil	(416) 598-4653	Jewellery
+	Freshii	(416) 598-4441	Specialty Food
+	Freshly Squeezed	(416) 581-1616	Specialty Food
+	Freshly Squeezed	(416) 581-1616	Specialty Food
+	Gap, The	(416) 599-8802	Children's Apparel,  Unisex Apparel
+	Garage	(416) 977-6252	Ladies Apparel
+	Geox	(416) 599-4369	Footwear
+	GNC - General Nutrition Centre	(416) 340-0963	Health and Beauty
+	Godiva Chocolatier	(416) 593-0300	Specialty Food
+	Great American Back Rub, The	(416) 963-0101	Personal Care & Health Service
+	Guess Accessories	(416) 915-8090	Fashion Accessories
+	Guess?		Unisex Apparel
+	H & M	(416) 593-0064	Children's Apparel,  Unisex Apparel
+	H2O Plus	(416) 979-7648	Health and Beauty
+This store has a current promotion	Hallmark	(416) 596-1028	Cards, Stationery and Gifts
+	Harry Rosen	(416) 598-8885	Men's Apparel
+	HMV	(416) 340-9801	Electronics, Computers and Telephones,  Music & Videos
+	Hollister	(416) 340-1261	Unisex Apparel
+	Honey		Ladies Apparel
+	Hot Topic	(416) 596-6700	Unisex Apparel
+	Hudson's Bay	(416) 861-9111
+	Indigo Books & Music	(416) 591-3622	Books and News,  Music & Videos
+	J. Crew	(416) 977-0941	Ladies Apparel,  Men's Apparel
+	Jack & Jones	(416) 593-8474	Men's Apparel
+	Jacob	(416) 977-7602	Ladies Apparel
+	Jays Shop	(416) 792-5254	Sporting Goods & Athleticwear
+	Jean Machine	(416) 593-0861	Unisex Apparel
+	Jimmy the Greek	(416) 348-8869	Fast Food
+	Joey Eaton Centre	(647) 352-5639	Restaurants
+	Johnston & Murphy	(416) 977-9530	Footwear,  Unisex Apparel
+	Jugo Juice	(416) 977-8278	Specialty Food
+	Kentucky Fried Chicken	(416) 596-7472	Fast Food
+	Kernels Popcorn	(416) 644-0424	Specialty Food
+	Kernels Popcorn	(416) 586-0327	Specialty Food
+	Koodo	(416) 591-5146	Electronics, Computers and Telephones
+	L'Attitudes	(416) 340-9920	Personal Care & Health Service
+	La Senza	(416) 977-6258	Specialty Apparel
+This store has a current promotion	La Vie en Rose	(416) 595-0898	Specialty Apparel
+	Laco Sac	(416) 586-0303	Leather & Luggage
+This store has a current promotion	Lacoste	(416) 593-0001	Unisex Apparel
+	Laura / Laura Petites	(416) 408-0344	Ladies Apparel
+	Le Chateau	(416) 979-3122	Footwear,  Ladies Apparel,  Men's Apparel,  Unisex Apparel
+This store has a current promotion	Lenscrafters	(416) 581-1621	Personal Care & Health Service
+	Lenscrafters		Personal Care & Health Service
+	Liberty Noodle	(416) 588-4100	Fast Food
+	Lids	(416) 979-1085	Fashion Accessories
+	Little Burgundy	(416) 260-0497	Footwear
+This store has a current promotion	Loft	(416) 591-7493	Ladies Apparel
+	Lucky Brand Jeans	(416) 593-6682	Unisex Apparel
+	Lululemon Athletica	(416) 597-0422	Specialty Apparel
+	LUSH	(416) 646-5874	Health and Beauty
+	MAC	(416) 595-9576	Health and Beauty
+	Marciano	(416) 642-2670	Ladies Apparel
+	Marciano		Ladies Apparel
+	Mark's	(416) 506-0430	Unisex Apparel
+	Massimo Dutti	(647) 255-0000	Unisex Apparel
+	McDonald's	(416) 597-9502	Fast Food
+	Mendocino	(416) 595-5226	Ladies Apparel
+	Mexx	(416) 599-6399	Unisex Apparel
+	Michael Kors	(416) 907-5677	Fashion Accessories,  Leather & Luggage
+	Microsoft	(416) 642-0534	Electronics, Computers and Telephones
+	Moneysworth & Best Alterations and Shoe Repair	(416) 593-8745	Services
+	Mrs. Field's Cookies and Pretz	(416) 340-1643	Specialty Food
+	Mucho Burrito	(416) 340-7634	Fast Food
+	Natural Solutions	(416) 977-4848	Health and Beauty
+	New York Fries	(416) 408-3501	Fast Food
+	Nike Running	(416) 591-0325	Sporting Goods & Athleticwear
+This store has a current promotion	Nine West	(416) 977-8126	Footwear
+	Nino D'Arena	(416) 977-6818	Health and Beauty,  Personal Care & Health Service
+	Nutrition House	(416) 598-3111	Health and Beauty
+	Oakley	(416) 348-0982	Fashion Accessories
+	Old Navy	(416) 593-0065	Children's Apparel,  Unisex Apparel
+	Orange Julius/Dairy Queen	(416) 972-9982	Specialty Food
+This store has a current promotion	Peoples Jewellers	(416) 977-8466	Jewellery
+	Pink	(416) 597-1054	Specialty Apparel
+	Proactiv	(877) 275-2561	Health and Beauty
+	Reitmans	(416) 598-3563	Ladies Apparel
+	Richtree Natural Market	(416) 506-0400	Restaurants
+	Rockport	(416) 597-0646	Footwear
+	Rocky Mountain Chocolate Factory	(416) 599-2462	Specialty Food
+	Rogers Plus	(416) 351-1522	Electronics, Computers and Telephones
+	Rogers Plus Store	(416) 977-7555	Electronics, Computers and Telephones
+	Roots	(416) 593-9640	Unisex Apparel
+	Ruby Thai Kitchen &Shanghai360	(416) 977-6552	Fast Food
+	RW & Co.	(416) 591-7247	Unisex Apparel
+	Sbarro	(416) 204-9772	Fast Food
+This store has a current promotion	Scotch & Soda	(647) 477-4095	Unisex Apparel
+	Second Cup, The	(416) 345-9452	Specialty Food
+	Second Cup, The	(416) 597-0847	Specialty Food
+	Sephora	(416) 595-7227	Health and Beauty
+	SGH Sunglass Hut	(416) 591-0981	Fashion Accessories
+	Shoppers Drug Mart	(416) 979-9373	Pharmacies & Drug Stores
+	Skechers	(416) 351-9449	Footwear
+	Smart Set	(416) 598-2065	Ladies Apparel
+	Soft Moc	(416) 595-0112	Footwear
+	Sport Chek	(416) 598-1626	Sporting Goods & Athleticwear
+	Starbucks Coffee	(416) 506-1602	Specialty Food
+	Starbucks Coffee	(416) 506-9946	Specialty Food
+	Starbucks Coffee	(416) 593-8570	Specialty Food
+	Steve Madden	(647) 351-7463	Footwear
+	Strategic Health Chiropractor		Personal Care & Health Service
+	Stuart Weitzman	(647) 352-0550	Footwear
+	Subway	(416) 204-1339	Fast Food
+This store has a current promotion	Sunglass Hut	(416) 971-0981	Fashion Accessories
+	Swarovski	(647) 439-8584	Cards, Stationery and Gifts,  Jewellery
+	Swatch	(416) 596-9799	Jewellery
+	Szechuan Express	(416) 971-7888	Fast Food
+	Tbooth wireless	(416) 217-1110	Electronics, Computers and Telephones
+	TD Canada Trust
+	TD Canada Trust
+	TD Canada Trust ATM		Services
+	TD Canada Trust ATM		Services
+	Teavana	(416) 979-1843	Specialty Food
+	Ted Baker London		Unisex Apparel
+	Telus	(416) 205-9489	Electronics, Computers and Telephones
+	Teriyaki Experience	(416) 260-2988	Fast Food
+	Thai Express	(416) 599-6668	Fast Food
+	The Bell Store	(416) 971-4107	Electronics, Computers and Telephones,  Services
+This store has a current promotion	The Face Shop	(416) 340-7377	Health and Beauty
+	The Source	(416) 979-7776	Electronics, Computers and Telephones
+	The Source	(416) 591-2224	Electronics, Computers and Telephones
+	Thrifty Car Rental	(416) 591-0861	Services
+	Tim Hortons	(416) 671-6720	Fast Food
+	TNA	(416) 597-9227	Ladies Apparel
+	Town Shoes	(416) 979-9914	Footwear
+	Toys Toys Toys	(416) 979-1121	Toys, Hobbies and Pets
+	Trade Secrets	(416) 595-7304	Health and Beauty
+	Trattoria Mercatto	(647) 352-3390	Restaurants
+	True Religion Brand Jeans	(416) 598-4444	Unisex Apparel
+	Urban Herbivore	(416) 847-1007	Fast Food
+	Victoria's Secret	(416) 205-1222	Specialty Apparel
+	Villa Madina	(416) 260-9070	Fast Food
+	Virgin Mobile	(416) 977-4650	Electronics, Computers and Telephones
+	Wilfred	(416) 597-0644	Ladies Apparel
+	Williams-Sonoma	(416) 260-1255	Housewares, Home Furnishings & Decor
+	Wind Mobile	(416) 847-6946	Electronics, Computers and Telephones
+	WIRELESSWAVE	(416) 205-9283	Electronics, Computers and Telephones
+	Yogen Fruz	(416) 599-1618	Specialty Food
+	Yves Rocher	(416) 593-5001	Health and Beauty
+	Zara	(647) 288-0333	Children's Apparel,  Unisex Apparel

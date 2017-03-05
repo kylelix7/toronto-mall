@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Toronto Malls</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mall_detail">Mall Details</string>
+    <string name="stores">Store Directory</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_store_directory">Store Directory</string>
+    <!--example
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!-- my real one-->
+    <string name="banner_ad_unit_id">ca-app-pub-1640526497897656/6021511328</string>
+    <string name="action_about">about</string>
+</resources>
